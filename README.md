@@ -1,3 +1,3 @@
 ### Hi There 👋
 
-My name is Cem Süleyman Kalach or Cherry, I'm Network Engineer and Entrepreneur from <img width="23" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I'm currently working as a software developer and project manager at [Rok99](https://github.com/ROKNN) Limitet Co.
+My name is Cem Süleyman Kalach or Cherry, I'm Entrepreneur from <img width="23" align="center" src="https://image.flaticon.com/icons/png/512/555/555607.png"> **Denmark**. I'm currently working as a software developer and project manager at [Rok99](https://github.com/ROKNN) Limitet Co. 
