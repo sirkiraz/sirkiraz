@@ -12,7 +12,7 @@
   <samp>
     「 I'm Young CyberSec App's & Web DevOps from <b>Denmark</b> 」
     <br>
- Speaking: English, Turkish, Arabic, Danish and bit Kurdis
+ Speaking: English, Turkish, Arabic, Danish and Kurdis
     <br>
   </samp>
 </p>
