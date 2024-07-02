@@ -24,7 +24,7 @@
  <a href="https://twitter.com/mirkalach" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000304?style=for-the-badge&logo=Twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/mirkalach" target="_blank">
+ <a href="https://instagram.com/kalachbeg" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sirkiraz" />
  </a> 
   <a href="https://https://discordapp.com/users/602087236623794179" target="blank">
